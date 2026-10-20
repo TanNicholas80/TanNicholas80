@@ -100,7 +100,7 @@
     <tr>
       <td valign="top" align="center">
         <a href="https://github.com/TanNicholas80">
-          <img src="https://github-readme-stats.vercel.app/api?username=TanNicholas80&show_icons=true&theme=tokyonight&hide_border=false&border_color=00D2FF&bg_color=0D1117&title_color=00D2FF&icon_color=00D2FF" alt="GitHub Stats" width="410" />
+          <img src="https://github-readme-stats.vercel.app/api?username=TanNicholas80&show_icons=true&theme=tokyonight&hide_border=false&border_color=00D2FF&bg_color=0D1117&title_color=00D2FF&icon_color=00D2FF&count_private=true&include_all_commits=true" alt="GitHub Stats" width="410" />
         </a>
       </td>
       <td valign="top" align="center">
