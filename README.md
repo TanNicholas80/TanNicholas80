@@ -112,7 +112,7 @@
     <tr>
       <td colspan="2" align="center">
         <a href="https://github.com/TanNicholas80">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanNicholas80&layout=compact&theme=tokyonight&hide_border=false&border_color=00D2FF&bg_color=0D1117&title_color=00D2FF" alt="Top Languages" width="410" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanNicholas80&layout=compact&theme=tokyonight&hide_border=false&border_color=00D2FF&bg_color=0D1117&title_color=00D2FF&hide=html,jupyter%20notebook" alt="Top Languages" width="410" />
         </a>
       </td>
     </tr>
